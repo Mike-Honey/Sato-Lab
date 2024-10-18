@@ -43,7 +43,7 @@ This page presents animated race charts to contrast the relative progressions. I
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/race-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=06c4732f54588ca041cb)
 
-[Link to watch the video](https://youtube.com/shorts/oYO7rDfD7oU)
+[Link to watch the video](https://youtu.be/wKzirRltcGI)
 
 ## 🤝 Support
 
