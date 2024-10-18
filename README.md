@@ -1,9 +1,9 @@
 # Sato Lab
-Projects to analyse data produced by the Sato Lab.
+Projects to analyse data produced by the [Sato Lab](https://www.ims.u-tokyo.ac.jp/SystemsVirology/eng-index.html).
 
 ## [Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5](https://doi.org/10.1038/s42003-023-05081-w)
 
-My analysis on the data produced for this paper integrates the data behind Figures 1A and 1B.
+My analysis on the data produced for [this paper](https://doi.org/10.1038/s42003-023-05081-w) integrates the data behind Figures 1A and 1B.
 
 ![Figures 1A and 1B](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/doi.org-10.1038%20s42003-023-05081-w-Figure-1-A-and-B.png)
 
