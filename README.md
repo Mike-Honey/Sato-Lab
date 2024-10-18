@@ -45,6 +45,8 @@ This page presents animated race charts to contrast the relative progressions. I
 
 [Link to watch the video](https://youtu.be/wKzirRltcGI)
 
+[![Watch the video](https://img.youtube.com/vi/wKzirRltcGI/maxresdefault.jpg)](https://youtu.be/wKzirRltcGI)
+
 ## 🤝 Support
 
 Contributions, issues, feature requests and sponsorship are all welcome!
