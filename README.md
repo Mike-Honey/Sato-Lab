@@ -5,7 +5,7 @@ Projects to analyse data produced by the Sato Lab.
 
 My analysis on the data produced for this paper integrates the data behind Figures 1A and 1B.
 
-[![Figures 1A and 1B](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/doi.org-10.1038 s42003-023-05081-w-Figure-1-A-amd-B.png)]
+[![Figures 1A and 1B](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/doi.org-10.1038 s42003-023-05081-w-Figure-1-A-and-B.png)]
 
 The tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data.  I have used this to first reproduce similar charts to those shown in the paper, and then explored a series of alternative presentations of the same data.
 
