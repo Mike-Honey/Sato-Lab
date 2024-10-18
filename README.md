@@ -5,7 +5,7 @@ Projects to analyse data produced by the Sato Lab.
 
 My analysis on the data produced for this paper integrates the data behind Figures 1A and 1B.
 
-[![Figures 1A and 1B](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/doi.org-10.1038 s42003-023-05081-w-Figure-1-A-and-B.png)]
+![Figures 1A and 1B](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/doi.org-10.1038%20s42003-023-05081-w-Figure-1-A-and-B.png)
 
 The tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data.  I have used this to first reproduce similar charts to those shown in the paper, and then explored a series of alternative presentations of the same data.
 
@@ -15,7 +15,7 @@ This page follows the style of the original figures. Being interactive, the user
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=32037d60b8a6d4117483)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/repro.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=32037d60b8a6d4117483)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/repro.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=32037d60b8a6d4117483)
 
 ### Column Charts, Power BI Theme
 
@@ -23,7 +23,7 @@ This page presents the same charts as the Repro page, but the theme applied is a
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=56b4855092b70698555d)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/column-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=56b4855092b70698555d)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/column-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=56b4855092b70698555d)
 
 
 ### Line Charts
@@ -32,7 +32,7 @@ This page swaps the column charts for Line Charts. These allow a dynamic Y-axis 
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=6a66623c37b940635209)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/line-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=6a66623c37b940635209)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/line-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=6a66623c37b940635209)
 
 
 ### Race Charts
@@ -41,7 +41,7 @@ This page presents animated race charts to contrast the relative progressions. I
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=06c4732f54588ca041cb)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org 10.1038 s42003-023-05081-w Comparative pathogenicity of SARS-CoV-2 Omicron subvariants including BA.1, BA.2, and BA.5/race-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=06c4732f54588ca041cb)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Sato-Lab/raw/main/doi.org%2010.1038%20s42003-023-05081-w%20Comparative%20pathogenicity%20of%20SARS-CoV-2%20Omicron%20subvariants%20including%20BA.1%2C%20BA.2%2C%20and%20BA.5/race-charts.png)](https://app.powerbi.com/view?r=eyJrIjoiYmI2Njc0YmQtYjgwNS00YWExLWIxNjItM2MyZGQ0NmFmYmE0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=06c4732f54588ca041cb)
 
 ## 🤝 Support
 
